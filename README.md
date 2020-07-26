@@ -1,5 +1,5 @@
 # Horiseon Company Website
-A brief project description goes here. E.g.: This document gives a high-level overview of how this website is set up.
+Our company provides our clients with high performance search engine optimization, online reputation management and social media marketing. 
 
 ## Table of Contents
 [Requirements]
