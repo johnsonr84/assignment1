@@ -12,7 +12,7 @@ Our company provides our clients with high performance search engine optimizatio
 Refactored an existing webpage for client to make it more accessible. 
 
 #### Design Notes
-(This may not be necessary, but if there's something about the design that needs to be noted, put it here.)
+Always leave the code you are editing a little cleaner than you found it!
 
 ##### Visuals
 <img src="https://github.com/johnsonr84/assignment1/blob/master/assets/images/homepage.png"/>
