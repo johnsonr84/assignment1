@@ -15,7 +15,7 @@ Refactored an existing webpage for client to make it more accessible.
 (This may not be necessary, but if there's something about the design that needs to be noted, put it here.)
 
 ##### Visuals
-https://github.com/johnsonr84/assignment1/blob/master/assets/images/homepage.png
+<img src="https://github.com/johnsonr84/assignment1/blob/master/assets/images/homepage.png"/>
 
 #### Dev Notes
 
